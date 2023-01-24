@@ -1,0 +1,8 @@
+* Running Scripts Is Disabled On This System* 
+Interpreter সিলেক্ট করার কেউ ছবির এরর খেলে নিচের কমান্ডগুলি পর পর রান করলেই ঠিক হয়ে যাবে ইনশাআল্লাহ।
+
+Set-ExecutionPolicy RemoteSigned
+Set-ExecutionPolicy Restricted
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+****
